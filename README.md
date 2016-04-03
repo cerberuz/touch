@@ -1,4 +1,4 @@
-triagem-touch
+Modulo tactil
 =============
 
-Triagem voltada para telas sensíveis ao toque
+Modulo para la gestion de los tickets de la OAC 
